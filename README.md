@@ -1,1 +1,1 @@
-# Bars-Beers-Drinkers
+Java web application that connects to a database consisting of information pertaining to Bars, Beers, and Drinkers. The user will be met with a webpage that allows them to customize their queries from the database. When the user submits their query, the application will create a MySQL query to return the requested information.
